@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a graduate student in a master’s in computer science program focused on Software Engineering, Cloud Computing, distributed systems, and machine learning at George Washington University.<br><br>Passionate software engineer with 3+ years of significant experience in building software applications with a solid understanding of SDLC, OOPS design patterns, distributed system designs, container orchestration, and CI/CD pipelines.
+I’m a graduate student in a master’s in computer science program focused on Software Engineering, Cloud Computing, distributed systems, and machine learning at George Washington University.<br><br>Passionate software engineer with 3+ years of significant experience in building software applications with a solid understanding of SDLC, OOPS design patterns, distributed system designs, container orchestration, and CI/CD pipelines.<br><br>Hands-on experience in full stack development and relational databases, and in all stages of the software development cycle, from planning and design to test-driven development and deployment with extensive agile environment methodology experience.<br><br>I help companies design and develop feature-rich, high-performance, robust cloud-based software applications in a fast-paced development environment.
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@ I’m a graduate student in a master’s in computer science program focused on 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Tharun-Gr&icon=0&color=1)](https://visitcount.itsvg.in)
