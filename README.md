@@ -9,7 +9,7 @@ AWS Certified Solutions Architect Professional | Software Engineer | MS in CS @G
 * 🌍  I'm based in Washington DC
 * ✉️  You can contact me at [tharun.2811@gmail.com](mailto:tharun.2811@gmail.com)
 * 🧠  I'm learning AWS CloudFormation and Terraform
-* 🤝  I'm open to collaborating on Microservices and cloud based projects
+* 🤝  I'm open to collaborating on Microservices and cloud-based projects
 * ⚡  Let's connect and explore how my skills can add value to your projects and drive technological innovation together!
 
 ### Skills
